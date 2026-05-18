@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning .NET
 - 💞️ I’m looking to collaborate on a testing framework
 - 📫 How to reach me: https://za.linkedin.com/in/sintu-tonjeni
-- 😄 Pronouns: he/him
 - ⚡ Fun fact: I speak Wakandan.
 
 <!---
